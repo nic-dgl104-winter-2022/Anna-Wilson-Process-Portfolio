@@ -1,5 +1,5 @@
 # Anna-Wilson-Process-Portfolio
-##Week One: 
+## **Week One:**
 
 *RESEARCH:*
 >potential "textbook production" technologies that we could use for the purposes of our course textbook. Make a list of potential technologies (with links!). Closely examine at least one technology and write a pros and cons list as it relates to our potential use of the technology.
@@ -31,7 +31,7 @@ I liked having a digital book for its convenient use especially for coding where
 .
 .
 .
-##**Week Two:**
+## **Week Two:**
 *RESEARCH:*
 > style guides. Find one for a programming language you are familiar with and give it  a careful read. What is new to you, or surprising? What is challenging, or difficult to understand?
 Javascript Style Guides https://my.visme.co/view/dmy7ezjv-javascript-style-guides-2
@@ -46,7 +46,7 @@ As new programmer naming convention might be a challenge, I prop need to remind 
 .
 .
 .
-##**Week Three:**
+## **Week Three:**
 *RESEARCH:* 
 > an API or library belonging to a programming language that you are familiar with. What do you notice in particular about the documentation approach the author's take? Is the documentation clear? Well-organized? Do you think you'd be able to find what you're looking for?
 
@@ -83,7 +83,7 @@ to have one place for all related codes or articles for my app to be able to put
 .
 .
 .
-##**WEEK FOUR**
+## **WEEK FOUR**
 *RESEARCH:* 
 > find your community! Take some time to brainstorm your interests in the context of your personal goals. Do some searching around GitHub through open source repositories to find something that aligns with your interests. Remember to keep an eye on repository activity - make sure development is active! Does your community have a well-defined central hub (e.g. a Slack or Discord channel)? What are the key resources for your community? How will you go about finding more information as you need it? Who will you contact, or where will you look?
 
@@ -96,7 +96,7 @@ to have one place for all related codes or articles for my app to be able to put
 .
 .
 .
-##**WEEK FIVE**
+## **WEEK FIVE**
 *RESEARCH: *
 > For this activity you should choose an IDE that is familiar to you that supports debugging. Visit the IDE developer's website and read some of the documentation about debugging. Write some sample code and play around with the debugging tool to better understand it. What have you learned from this process?
 
@@ -134,7 +134,7 @@ Steps I took to debug coding assignment:
 .
 .
 .
-##**WEEK SIX**
+## **WEEK SIX**
 *RESEARCH:*
 > code review documentation and best practices. Find some documentation for established companies or groups (perhaps from your community!) that discusses some aspect of code review (i.e. it doesn't have to be a full code review protocol, but it should outline some of the processes through which code is approved). How does this process fit with what has been proposed in lecture? Do you think there are any improvements to be made?
 
@@ -145,7 +145,7 @@ Steps I took to debug coding assignment:
 .
 .
 .
-##**WEEK SEVEN**
+## **WEEK SEVEN**
 *RESEARCH: * 
 > testing frameworks for a programming language and / or IDE that you are familiar with. Find some documentation related to the testing framework and read at least the basic principles. How easy is the documentation to understand? Could you use the tool right away? Try writing a simple test and deploying it? Did it work? What have you learned from this process?
 
@@ -156,7 +156,7 @@ Steps I took to debug coding assignment:
 .
 .
 .
-##**WEEK EIGHT**
+## **WEEK EIGHT**
 *RESEARCH:*
 > all the tools! We've collectively looked a lot of tools and technologies up to this point, and many of them have been reported on in Slack. Take a read through the #weekly-research channel and identify the tool that interests you the most (it doesn't have to be one of yours!) Do your own research on the tool by examining the official documentation, reading third-party articles or completing tutorials. If you can, try the tool out yourself to get a sense of how it works.
 
@@ -167,7 +167,7 @@ Steps I took to debug coding assignment:
 .
 .
 .
-##**WEEK NINE**
+## **WEEK NINE**
 *RESEARCH:*
 > UI design patterns. Feel free to use resources from other courses (i.e. especially DGL 111). Compile a list of useful UI pattern resources that are most helpful from a development perspective (i.e. resources that specify not just how a UI might be designed, but also how it might be coded). Did you learn anything new from this process?
 
@@ -178,7 +178,7 @@ Steps I took to debug coding assignment:
 .
 .
 .
-##**WEEK NINE**
+## **WEEK NINE**
 *RESEARCH:*
 > design patterns and anti-patterns. Take a look at the list provided in lecture, or do some researching online to find a resource that provides a collection of design patterns (and / or anti-patterns) in a programming language that you are familiar with. Choose one pattern and examine it closely. What is the pattern for? In what situations would you expect to find it? What are the key elements of the pattern? What have you learned from your close examination?
 
@@ -189,7 +189,7 @@ Steps I took to debug coding assignment:
 .
 .
 .
-##**WEEK TEN**
+## **WEEK TEN**
 *RESEARCH: *
 > either another software architecture pattern (e.g. MVP, MVI, VIPER, others), or a new resource that discusses one of the patterns discussed in lecture (i.e. MVC or MVVM). What did you learn from this resource? What will you be able to apply from what you've learned from this resource and from lecture?
 
