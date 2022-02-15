@@ -101,17 +101,17 @@ to have one place for all related codes or articles for my app to be able to put
 > For this activity you should choose an IDE that is familiar to you that supports debugging. Visit the IDE developer's website and read some of the documentation about debugging. Write some sample code and play around with the debugging tool to better understand it. What have you learned from this process?
 
 Going over my last code, I found some errors that I corrected after checking the debugging steps I've set for myself, 
-error msg(
-Corresponding method handler '`public void buttonPressed(android.view.View)`' not found
+error msg:
+`Corresponding method handler '`public void buttonPressed(android.view.View)`' not found
 Method 'buttonPressed' in 'MainActivity' has incorrect signature
-Typo: In word 'serach')
+Typo: In word 'serach'`
 
 after clicking at all error messages, it's taking me to the same lines of code in XML file 
-43        android:onClick="buttonPressed"
-44        android:text="@string/serach"
+`43        android:onClick="buttonPressed"
+44        android:text="@string/serach"`
 
 I noticed search wasn't spilled correctly & once I corected splling for search in main xml, I got 2nd error massage  
-( android:text="@android:string/serch_go" )
+`android:text="@android:string/serch_go" `
 
 then error msg showed up (Cannot resolve symbol '@string/search') in problem tap and suggested to add string value; 
 going back to my code, I knew I didn't need an extra value, so I went to check the what's my code referencing.
