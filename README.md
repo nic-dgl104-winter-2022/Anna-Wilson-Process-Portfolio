@@ -110,13 +110,15 @@ This link would be helpful for more complex debugging in android studio: https:/
 
 *REFLECT:*
 > when has debugging been particularly challenging? Consider a project that you've worked on in the past where a bug was particularly difficult to solve. What techniques did you use? Knowing what you know now, would you be able to improve your process? How is what you've recently learned going to help you in the future? What debugging techniques will you adopt?
+
+
 I've used vscode for writing and debugging codes in CPS100. I liked that it highlights the error in the code and appreciate the plugin that helps fix or format the code while writing. I've learned about the brake points which, allow me to test the code in parts. I've learned how to understand, read and search the error message while writing the code. I've also got myself somewhat familiar with the android studio by testing with the debugging tools while following tutorials/assignments. 
 
 Steps I took to debug coding assignment:
-1- Comment what each line need to do
-2- Check any red words in main activity file.
-3- Check problem tap for error massage 
-4- Use system log
+* Comment what each line need to do
+* Check any red words in main activity file.
+* Check problem tap for error massage 
+* Use system log
 
 
 ## **WEEK SIX**
