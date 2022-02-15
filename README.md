@@ -31,13 +31,19 @@ I liked having a digital book for its convenient use especially for coding where
 ## **Week Two:**
 *RESEARCH:*
 > style guides. Find one for a programming language you are familiar with and give it  a careful read. What is new to you, or surprising? What is challenging, or difficult to understand?
+
 Javascript Style Guides https://my.visme.co/view/dmy7ezjv-javascript-style-guides-2
 
 *REFLECT:* 
 > on your own coding practice. What have you done well, and where you could you improve in terms of style and best practices? Provide some examples from your own code.
-java scripts seem like the kid of java & html, it share some of each coding best practice.
-It's also focus on readability so you can bend the roles when you see fit.
-As new programmer naming convention might be a challenge, I prop need to remind myself as I can see it happening often
+
+* Use clear names for variables:
+`    // used html markup to organize output in table & to add item in array
+    todos.push(`<tr><th>${count}</th><td>${duration}</td><td>${description}</td></tr>`);`
+* Using space around operators
+`    count += 1;`
+* Statement rules
+`    todosEl.innerHTML = todos.join('');`
 
 
 ## **Week Three:**
