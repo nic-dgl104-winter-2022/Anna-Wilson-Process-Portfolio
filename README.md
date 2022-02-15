@@ -1,5 +1,5 @@
 # Anna-Wilson-Process-Portfolio
-##**Week One: **
+##Week One: 
 
 *RESEARCH:*
 >potential "textbook production" technologies that we could use for the purposes of our course textbook. Make a list of potential technologies (with links!). Closely examine at least one technology and write a pros and cons list as it relates to our potential use of the technology.
