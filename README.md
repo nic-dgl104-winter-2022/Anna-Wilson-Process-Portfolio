@@ -131,6 +131,8 @@ Steps I took to debug coding assignment:
 *RESEARCH:*
 > code review documentation and best practices. Find some documentation for established companies or groups (perhaps from your community!) that discusses some aspect of code review (i.e. it doesn't have to be a full code review protocol, but it should outline some of the processes through which code is approved). How does this process fit with what has been proposed in lecture? Do you think there are any improvements to be made?
 
+I've found code-review-tips written by ryanmcdermott insightful with example of each step of the code review process. It goes hand in hand with some points mention in the lecture around respecting each other time for both by reviewing the code before submitting including checking out typo and formatting, and taking the time to understand the function of the app before suggesting changes that could be irrelevant. The article covers most review steps for basic apps that i would potently make, there might be more once code get more complicated but for now i would say all needed information is covered. 
+
 *REFLECT:* 
 > on the code review process. Find a friend and perform a code review on one of their previous projects (and vice versa!) What worked well about the process? What could have been improved? How do you think this process could help on a real project? How do you think it could fail?
 
