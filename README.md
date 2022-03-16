@@ -84,10 +84,12 @@ to have one place for all related codes or articles for my app to be able to put
 *RESEARCH:* 
 > find your community! Take some time to brainstorm your interests in the context of your personal goals. Do some searching around GitHub through open source repositories to find something that aligns with your interests. Remember to keep an eye on repository activity - make sure development is active! Does your community have a well-defined central hub (e.g. a Slack or Discord channel)? What are the key resources for your community? How will you go about finding more information as you need it? Who will you contact, or where will you look?
 
-
+I joined the kotline community in git hub & Reddit, I found it very much active, and new content is uploaded regularly 
 
 *REFLECT:*
 >on your community. After spending time engaging with your community (e.g. looking at example code, repositories, reading discussion threads and forum posts, reading PRs and comments, watching tutorials, etc.) What do you think the goals of your community are? What excites you most about your community? How do you hope to contribute to your chosen community?
+
+the members are trying to help each other when it comes to coding, technical issues, and anything related to kotline, which is helpful for me, as new programmer i do find some topics challenging so a community like this one makes my learning journey easy,
 
 
 ## **WEEK FIVE**
@@ -142,10 +144,15 @@ I've found code-review-tips written by ryanmcdermott insightful with example of 
 *RESEARCH: * 
 > testing frameworks for a programming language and / or IDE that you are familiar with. Find some documentation related to the testing framework and read at least the basic principles. How easy is the documentation to understand? Could you use the tool right away? Try writing a simple test and deploying it? Did it work? What have you learned from this process?
 
+This article https://www.thecodeside.com/2020/10/13/testing-tools-for-kotlin-quick-recap-in-2020/ go over four frameworks testing tools for kotlen. First, we have JUnit4, the basic version of JUnit5. It does the job but doesn't include JUnit5 features. Then we have JUnit5, which houses features like Nested Tests, assertAll, assertThrows, @ParameterizedTest , @DisplayName, and what you need to fix your framework in one place. It also mentions Spek, which has basic fixes and features, comes built-in, so that's one available option without manually installing it in your android studio. Last but not least is which covers tests like Fun Spec, ScalaTest, Describe Spec, Javascript frameworks, and more. 
+
+
+ 
 *REFLECT:*
 > when would testing have helped you most on past projects? Can you recall any past projects that would have benefitted from a test-first approach?  What is the most important learning you will take from this week (even if you don't feel comfortable using a testing framework, what can you take from the principles of testing and use in future projects)?
 
-
+ Testing the logic of my function, first, I try to comment on what I want my code to be active, then I look into tasks that can help me complete the function, and finally comes to coding. I've contributed to the community here:  https://www.reddit.com/r/Kotlin/comments/t8n01e/help/ my user name is IBluecatI 
+ 
 ## **WEEK EIGHT**
 *RESEARCH:*
 > all the tools! We've collectively looked a lot of tools and technologies up to this point, and many of them have been reported on in Slack. Take a read through the #weekly-research channel and identify the tool that interests you the most (it doesn't have to be one of yours!) Do your own research on the tool by examining the official documentation, reading third-party articles or completing tutorials. If you can, try the tool out yourself to get a sense of how it works.
