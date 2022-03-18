@@ -157,10 +157,14 @@ This article https://www.thecodeside.com/2020/10/13/testing-tools-for-kotlin-qui
 *RESEARCH:*
 > all the tools! We've collectively looked a lot of tools and technologies up to this point, and many of them have been reported on in Slack. Take a read through the #weekly-research channel and identify the tool that interests you the most (it doesn't have to be one of yours!) Do your own research on the tool by examining the official documentation, reading third-party articles or completing tutorials. If you can, try the tool out yourself to get a sense of how it works.
 
+In week four for [Magsakay-Process-Portfolio](https://github.com/nic-dgl104-winter-2022/Magsakay-Process-Portfolio/blob/main/README.md#week-09) in his post, he go over [freeCodeCamp](https://www.freecodecamp.org/learn) 
+
 *REFLECT:*
 > on your chosen tool. What about it captured your interest in the first place? (Maybe it's purpose? Perhaps the student who reported on it wrote a really compelling discussion about it?) Write a pros and cons list that examines the use of the tool in a context you're familiar with (i.e. as it relates to a particular IDE or programming language, etc.) What have you learned from this process? Would you recommend the tool to a peer? Why?
 
+Mageskay gave insightful and structured benefits of the website, which hooked me to try it myself. His detailed explanation about the community gave me a sneak peek of what I'll be expecting; he also pointed out one of the main concerns about learning to code online: people! Which answers my question on who will I talk to if I have questions? How can I find others that are in a similar place as me? And much more. 
 
+The website is beneficial for novas programmers like me, I've signed up and tried the first course, and with the level of steps and clarification, it would be more than possible to learn programming whenever I wanted. It fascinates me that the more I dig deeper into coding communities, I find many interested in teaching others about coding; each makes it easier and different to suit different people. This website comes in a set structure, which I find helpful to avoid being overwhelmed and give you a sense of accomplishment. It also focuses on practice where you can make brake the code; how many, you like to get a sense of the importance of each element. Most importantly, the certificates are divided into twelve streams, making it easy to  know what programing language I want to know and what I'm going to use to give you so sort of goal throughout your journey
 
 ## **WEEK NINE**
 *RESEARCH:*
