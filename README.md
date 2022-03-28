@@ -174,7 +174,7 @@ The website is beneficial for novas programmers like me, I've signed up and trie
 > on the UI of an app that you use often. Feel free to make use of UI terminology and analysis that you've learned in other classes (e.g. especially DGL 111). Consider what works well with the UI and what doesn't, perhaps make a pros and cons list (consider all aspects, including navigation, menus, icons, device orientation, how the app interfaces with other apps or the system, etc.). Try to break the app: push the interface to its limits and try to find bugs - be intentional about this. Consider the UI from a developer's perspective: What would be difficult, based on what you know? What would be easy? Report on what you've learned.
 
 
-## **WEEK NINE**
+## **WEEK TEN**
 *RESEARCH:*
 > design patterns and anti-patterns. Take a look at the list provided in lecture, or do some researching online to find a resource that provides a collection of design patterns (and / or anti-patterns) in a programming language that you are familiar with. Choose one pattern and examine it closely. What is the pattern for? In what situations would you expect to find it? What are the key elements of the pattern? What have you learned from your close examination?
 
