@@ -189,10 +189,14 @@ The UI element such as colors, shadows would be the easiest to implement at firs
 *RESEARCH:*
 > design patterns and anti-patterns. Take a look at the list provided in lecture, or do some researching online to find a resource that provides a collection of design patterns (and / or anti-patterns) in a programming language that you are familiar with. Choose one pattern and examine it closely. What is the pattern for? In what situations would you expect to find it? What are the key elements of the pattern? What have you learned from your close examination?
 
+This article provides a clear picture of java design patterns with examples for further explanation. I'll go over the structural design patterns, which stand for identifying the relationships between larger object structures in order to simplify their design. It consists of an adapter, bridge, composite, decorator, facade, flyweight, and proxy. I'll go into detail to explain composite, which asks you to compose objects in a tree structure to represent your program as a whole, including its hierarchy. So you would create your main class then sup classes that are organized based on their task/goal that needs to be achieved. A practical example of this can be found in [https://www.geeksforgeeks.org/composite-design-pattern/](Composite Design Pattern) 
+
+
 *REFLECT:*
 > on a past coding project. Choose a project of significant length that you haven't touched in at least some months (it could be from a course you've already completed, or from work you've done outside of class). Examine the code carefully and consider the main themes we've discussed in this course to date (i.e. from best practices and style, documentation, debugging, through UI concerns and design patterns). What stands out to you as you examine your code? Do you understand the code and your intentions fully? What is the biggest thing you could do to improve the code? Explain why.
 
 
+After reviewing some of my old java codes, I noticed that I created one class with all functions without dividing them. This made the testing difficult since I only have one large class that houses the variables, functions, and output. A better approach would be to create the main class, which has all global data, then create sup classes for each function so I can test the whole code faster and without going over the entire code to find the bug. 
 
 ## **WEEK ELEVEN**
 *RESEARCH: *
