@@ -170,8 +170,19 @@ The website is beneficial for novas programmers like me, I've signed up and trie
 *RESEARCH:*
 > UI design patterns. Feel free to use resources from other courses (i.e. especially DGL 111). Compile a list of useful UI pattern resources that are most helpful from a development perspective (i.e. resources that specify not just how a UI might be designed, but also how it might be coded). Did you learn anything new from this process?
 
+I like [collectui](https://collectui.com/designs) website, since it give you the UI pattranes for whichever screen yoyr looking to design, it'd helpfule tool to desiced you can design your ui.
+for the coding part i found [AI Lab projects](https://www.microsoft.com/en-us/ai/ai-lab-sketch2code)
+   which can convert you low-fi wirframes into html code which can be helpfule when coding long roject 
+
+
 *REFLECT:*
 > on the UI of an app that you use often. Feel free to make use of UI terminology and analysis that you've learned in other classes (e.g. especially DGL 111). Consider what works well with the UI and what doesn't, perhaps make a pros and cons list (consider all aspects, including navigation, menus, icons, device orientation, how the app interfaces with other apps or the system, etc.). Try to break the app: push the interface to its limits and try to find bugs - be intentional about this. Consider the UI from a developer's perspective: What would be difficult, based on what you know? What would be easy? Report on what you've learned.
+
+Until recently, I've never noticed the small thing that Samsung clock has. Setting the alarm and making changes is an easy task that you can do it effortlessly, which was my aspiration for my GPS alarm app. The user flow is simple and focused on whichever task the user needs to complete. 
+For example, the first screen you see once you open the app show you all the active/inactive alarm with a plus sign inviting you to create a new alarm, even though they don't use descriptive button as much the buttons are placed in a way that you know what they do, the consistency with their buttons enhance the navigation through the app even further. 
+the bottom navigation move you between screen so easily, which we learned about in DGL114. I'm curious to explore more on how the data is saved and how to avoid bugs relating to data being lost or not showing up, screen crashes and such. 
+
+The UI element such as colors, shadows would be the easiest to implement at first. They seemed impossible. However, after exploring and testing my other two apps, it was easy!
 
 
 ## **WEEK TEN**
@@ -183,7 +194,7 @@ The website is beneficial for novas programmers like me, I've signed up and trie
 
 
 
-## **WEEK TEN**
+## **WEEK ELEVEN**
 *RESEARCH: *
 > either another software architecture pattern (e.g. MVP, MVI, VIPER, others), or a new resource that discusses one of the patterns discussed in lecture (i.e. MVC or MVVM). What did you learn from this resource? What will you be able to apply from what you've learned from this resource and from lecture?
 
