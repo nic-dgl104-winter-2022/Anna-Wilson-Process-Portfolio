@@ -201,9 +201,13 @@ After reviewing some of my old java codes, I noticed that I created one class wi
 ## **WEEK ELEVEN**
 *RESEARCH: *
 > either another software architecture pattern (e.g. MVP, MVI, VIPER, others), or a new resource that discusses one of the patterns discussed in lecture (i.e. MVC or MVVM). What did you learn from this resource? What will you be able to apply from what you've learned from this resource and from lecture?
+[Clean iOS Architecture pt.5: MVC, MVVM, and MVP (UI Design Patterns)](https://www.youtube.com/watch?v=qzTeyxIW_ow) The vedio explaines the difrance clerly betweene each pattren visuly which makes it easy to understand and desiced which to shoese when devolping the application ui. 
+
 
 *REFLECT:*
 > On the diagramatic way in which software architecture patterns are typically presented. Have these been helpful to you understanding? Have they hindered your understanding? Is there a better approach? If so, describe it; if not, explain what you think the strength of the diagramatic approach is.
 
+I first struggled with how the UI will be organized, so the app functions smoothly whenever your users interact with it. This would be solved following one or any combination of these design patterns. 
+MVVM might be the best approach for my GPS alarm app as it will allow me to test the function individually. So the module will house the data like alarm name, location, timeframes, and so on. The view module would house all UI elements like buttons, design, and other fill-in fields. The ViewModel will represent the state and location of the view, so whenever the toggle is clicked, it will change from active to inactive, colors will change accordingly.
 
 > Quoted from Ashley Blacquiere 
